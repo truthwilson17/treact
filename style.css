@@ -61,6 +61,10 @@ li {
     text-decoration: underline;
 }
 
+header {
+    height: calc(100vh - 80px);
+}
+
 
 /* 
 
